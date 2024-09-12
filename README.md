@@ -1,2 +1,2 @@
 # JunonBot
-Junon.I bot by FGEEHEHER
+The junon.io bot by FGEEHEHER
